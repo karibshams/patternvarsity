@@ -68,6 +68,4 @@ Feel free to fork this project, create issues for bugs or feature requests, and 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-This updated README includes the **Classification** section to describe the purpose and flow of the classification task for mango detection. Let me know if you'd like further customization or additional details!
