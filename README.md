@@ -1,6 +1,3 @@
-Here’s an updated README file with a section dedicated to **Classification**:
-
----
 
 # Mango Detection Project
 
