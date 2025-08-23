@@ -1,5 +1,5 @@
 
-# Mango Detection Project
+# Mango classification Project
 
 ## Overview
 
